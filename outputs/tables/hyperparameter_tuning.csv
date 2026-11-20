@@ -1,0 +1,15 @@
+﻿Cấu hình,F1 (macro),F1 lớp High,Accuracy,Thời gian (s)
+LR | C=1.0 | full,0.7294,0.5543,0.7602,3.4
+2. Logistic Regression (mục 4) | full,0.7294,0.5543,0.7602,
+LR | C=1.0 | no_coord,0.7287,0.5527,0.7598,3.8
+LR | C=0.1 | no_coord,0.7282,0.5508,0.7593,1.5
+LR | C=0.3 | no_coord,0.7282,0.551,0.7592,4.4
+"HGB | lr=0.05, leaf=15, l2=1 | no_coord",0.728,0.5548,0.7584,11.2
+LR | C=0.3 | full,0.7279,0.5506,0.759,6.1
+LR | C=0.1 | full,0.7276,0.5499,0.7587,5.5
+"RF | depth=12, leaf=5 | no_coord",0.7274,0.5531,0.7579,9.6
+"HGB | lr=0.05, leaf=15, l2=1 | full",0.7251,0.5458,0.7575,58.9
+"RF | depth=12, leaf=5 | full",0.7245,0.5505,0.755,71.5
+5. HistGradientBoosting (mục 4) | full,0.7217,0.5324,0.757,
+4. Random Forest (mục 4) | full,0.7217,0.5177,0.7623,
+3. Decision Tree (mục 4) | full,0.7174,0.5268,0.7526,
