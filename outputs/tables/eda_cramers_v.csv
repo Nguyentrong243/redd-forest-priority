@@ -1,0 +1,12 @@
+﻿,Cramér's V (toàn bộ),Cramér's V (rừng tự nhiên),Số giá trị
+forest_origin,0.884,,2
+land_type,0.676,0.488,50
+land_cover_group,0.659,0.354,12
+stock_level,0.614,0.217,6
+province,0.43,0.338,2
+commune,0.356,0.529,35
+year,0.352,0.287,8
+owner_type,0.32,0.396,6
+district,0.319,0.485,4
+month,0.138,0.135,12
+status,0.03,0.02,2

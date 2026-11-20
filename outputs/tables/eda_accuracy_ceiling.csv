@@ -1,0 +1,7 @@
+﻿Tập đặc trưng,Trần accuracy (trên train),Số tổ hợp
+Nguồn gốc rừng,0.7743,2
+Loại đất chi tiết (land_type),0.7809,50
+land_type + huyện,0.7829,75
+land_type + huyện + loại chủ rừng,0.7841,142
+land_type + tiểu khu + loại chủ rừng,0.8106,1364
+"Toạ độ chính xác (lat, long)",0.9827,17767
