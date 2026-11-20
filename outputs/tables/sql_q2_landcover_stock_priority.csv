@@ -1,0 +1,18 @@
+﻿nguon_goc_rung,nhom_hien_trang,cap_tru_luong,so_lo,so_lo_high,pct_high,pct_medium,pct_low
+Natural forest,Coniferous,Poor,1491,732,49.1,50.8,0.1
+Natural forest,Broadleaf-coniferous mixed,Poor,60,27,45.0,51.7,3.3
+Natural forest,Coniferous,Medium,1528,679,44.4,55.2,0.3
+Natural forest,Coniferous,Rich,523,223,42.6,57.4,0.0
+Natural forest,Broadleaf-coniferous mixed,Medium,74,31,41.9,58.1,0.0
+Natural forest,Wood-bamboo mixed,Not applicable,180,69,38.3,33.9,27.8
+Natural forest,Broadleaf-coniferous mixed,Rich,62,20,32.3,67.7,0.0
+Natural forest,Bamboo,Not applicable,208,58,27.9,69.2,2.9
+Natural forest,Evergreen broadleaf,Rich,160,43,26.9,73.1,0.0
+Natural forest,Mixed,Rich,2915,609,20.9,79.1,0.0
+Natural forest,Evergreen broadleaf,Medium,760,136,17.9,80.9,1.2
+Natural forest,Evergreen broadleaf,Poor,1523,260,17.1,81.5,1.4
+Natural forest,Evergreen broadleaf,Recovered,1567,247,15.8,84.2,0.1
+Plantation forest,Plantation forest,Not applicable,1176,19,1.6,9.1,89.3
+Plantation forest,Bare/rocky land,Not applicable,3514,0,0.0,15.0,85.0
+Plantation forest,Regenerating land,Not applicable,2133,0,0.0,14.0,86.0
+Plantation forest,Newly planted land,Not applicable,914,0,0.0,6.0,94.0

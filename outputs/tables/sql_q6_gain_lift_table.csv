@@ -1,0 +1,6 @@
+﻿top_lo_kiem_tra,so_lo_kiem_tra,so_lo_high_phat_hien,pct_high_thu_duoc_recall,do_chinh_xac_precision_pct,he_so_lift
+5%,942,502,15.9,53.3,3.18
+10%,1885,961,30.4,51.0,3.04
+20%,3770,1795,56.8,47.6,2.84
+30%,5655,2402,76.0,42.5,2.53
+50%,9425,3005,95.0,31.9,1.9

@@ -1,0 +1,8 @@
+﻿loai_du_doan,so_lo,ty_le_pct,do_tu_tin_tb,prob_high_tb,so_lo_nam_trong_hotspot_95
+Correct,14330,76.02,0.793,0.224,988
+Medium -> High,2477,13.14,0.693,0.693,73
+Medium -> Low,995,5.28,0.866,0.013,9
+High -> Medium,947,5.02,0.65,0.347,370
+Low -> High,75,0.4,0.539,0.539,0
+High -> Low,24,0.13,0.601,0.165,0
+Low -> Medium,3,0.02,0.444,0.292,0

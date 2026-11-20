@@ -1,0 +1,5 @@
+﻿nhom_hanh_dong,so_lo,ty_trong_lo_pct,so_lo_high_thuc_te,ty_le_high_thuc_te_pct,prob_high_tb
+1. Khẩn cấp (Xác suất cao & nằm trong Vùng nóng),343,1.8,191,55.7,0.796
+2. Ưu tiên cao (Xác suất ML cao),4615,24.5,2046,44.3,0.68
+3. Giám sát vùng đệm (Lân cận cụm điểm nóng),2762,14.7,473,17.1,0.352
+4. Theo dõi định kỳ,11131,59.0,452,4.1,0.084
