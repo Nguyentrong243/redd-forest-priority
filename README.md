@@ -1,8 +1,7 @@
 # Ứng dụng học máy và GIS trong phân tích, phân loại mức độ ưu tiên quản lý rừng tại Nghệ An và Lâm Đồng (REDD+)
 
-> **Đồ án Chuyên ngành Tin học Tài nguyên và Môi trường** - Ngành Công nghệ Thông tin  
-> **Trường Đại học Tài nguyên và Môi trường TP. Hồ Chí Minh** - Khoa Công nghệ Thông tin  
-> **Sinh viên thực hiện:** Nguyễn Phúc Trọng (MSSV: `1250080214`, Lớp `12_ĐH_THMT`, Khóa `2023 – 2027`)  
+> **Đồ án Chuyên ngành Tin học Tài nguyên và Môi trường**
+> **Sinh viên thực hiện:** Nguyễn Phúc Trọng (MSSV: `1250080214`, Lớp `12_ĐH_THMT`)  
 > **Giảng viên hướng dẫn:** ThS. Hà Châu Hoàng
 
 ---
@@ -128,7 +127,7 @@ Mở thư mục `notebooks/` trong Jupyter Notebook hoặc VS Code và chạy **
 5. `05_postgresql_analytics.ipynb` — Nạp Star Schema lên PostgreSQL (`schema redd`: 5 bảng, khóa chính/ngoại, 2 View) và thực thi 8 truy vấn phân tích (`sql/02_analytical_queries.sql`).
 
 ### Bước 4: Mở bản đồ ArcMap 10.4.1 và Dashboard Power BI
-- **ArcMap 10.4.1:** Mở `outputs/arcmap/mxd/Nghe_An.mxd` (UTM Zone 48N) hoặc `outputs/arcmap/mxd/Lam_Dong.mxd` (UTM Zone 49N). Chi tiết thiết lập ký hiệu và hệ chiếu xem tại [outputs/arcmap/HUONG_DAN_ARCMAP.md](outputs/arcmap/HUONG_DAN_ARCMAP.md).
+- **ArcMap 10.4.1:** Mở `outputs/arcmap/mxd/Nghe_An.mxd` (UTM Zone 48N) hoặc `outputs/arcmap/mxd/Lam_Dong.mxd` (UTM Zone 49N).
 - **Power BI Desktop:** Mở [outputs/powerbi/redd.pbix](outputs/powerbi/redd.pbix), kết nối tới PostgreSQL `localhost:5432/redd_forest_db` và chọn **Refresh**.
 
 ---
