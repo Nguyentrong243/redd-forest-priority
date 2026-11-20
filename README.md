@@ -1,8 +1,8 @@
 # Ứng dụng học máy và GIS trong phân tích, phân loại mức độ ưu tiên quản lý rừng tại Nghệ An và Lâm Đồng (REDD+)
 
-> **Đồ án Chuyên ngành Tin học Tài nguyên và Môi trường**
-> **Sinh viên thực hiện:** Nguyễn Phúc Trọng (MSSV: `1250080214`, Lớp `12_ĐH_THMT`)  
-> **Giảng viên hướng dẫn:** ThS. Hà Châu Hoàng
+**Đồ án Chuyên ngành Tin học Tài nguyên và Môi trường**
+**Sinh viên thực hiện:** Nguyễn Phúc Trọng (MSSV: `1250080214`, Lớp `12_ĐH_THMT`)  
+**Giảng viên hướng dẫn:** ThS. Hà Châu Hoàng
 
 ---
 
