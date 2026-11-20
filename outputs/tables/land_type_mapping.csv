@@ -1,0 +1,51 @@
+﻿forest_origin,land_type,land_cover_group,stock_level,so_ban_ghi
+Natural forest,Natural bamboo forest on the soil mountain,Bamboo,Not applicable,152
+Natural forest,Natural bambusa procera forest,Bamboo,Not applicable,27
+Natural forest,Other natural bamboo forest on the soil mountain,Bamboo,Not applicable,18
+Natural forest,Natural bamboo forest,Bamboo,Not applicable,8
+Natural forest,Natural bambusa procera forest on the soil mountain,Bamboo,Not applicable,3
+Natural forest,Medium natural broad-leaved and coniferous forest on the soil mountain,Broadleaf-coniferous mixed,Medium,70
+Natural forest,Natural wood forest in the mountains with broad leaves and rich coniferous leaves,Broadleaf-coniferous mixed,Rich,62
+Natural forest,Natural wood and poor broadleaf and coniferous forest on soil mountain,Broadleaf-coniferous mixed,Poor,51
+Natural forest,Natural poor broadleaf and poor coniferous forests,Broadleaf-coniferous mixed,Poor,9
+Natural forest,Natural medium broadleaf and medium coniferous forests,Broadleaf-coniferous mixed,Medium,3
+Natural forest,Natural wood forest in the mountains with medium broad leaves and medium coniferous leaves,Broadleaf-coniferous mixed,Medium,1
+Natural forest,"Natural wood forest, mountain, medium coniferous soil",Coniferous,Medium,1517
+Natural forest,"Natural wood forest, poor coniferous soil",Coniferous,Poor,1475
+Natural forest,"Natural wood forest, rich coniferous soil",Coniferous,Rich,523
+Natural forest,Poor coniferous natural forest,Coniferous,Poor,16
+Natural forest,Medium coniferous natural forest,Coniferous,Medium,11
+Natural forest,"Natural wood forest, mountain coniferous land recover",Coniferous,Recovered,4
+Natural forest,"Natural wood forest, very poor coniferous soil",Coniferous,Very poor,2
+Natural forest,Recovered deciduous broadleaf natural forest,Deciduous broadleaf,Recovered,9
+Natural forest,Poor deciduous broadleaf natural forest,Deciduous broadleaf,Poor,6
+Natural forest,Medium deciduous broadleaf natural forest,Deciduous broadleaf,Medium,1
+Natural forest,Recovered evergreen broad-leaved natural forest on the soil mountain,Evergreen broadleaf,Recovered,1541
+Natural forest,Poor evergreen broad-leaved natural forest on the soil mountain,Evergreen broadleaf,Poor,1456
+Natural forest,Medium evergreen broad-leaved natural forest on the soil mountain,Evergreen broadleaf,Medium,638
+Natural forest,Rich natural  evergreen broad-leaved forest on the soil mountain,Evergreen broadleaf,Rich,146
+Natural forest,Medium natural evergreen broad-leaved forest on the soil mountain,Evergreen broadleaf,Medium,86
+Natural forest,Poor evergreen broad-leaved natural forest,Evergreen broadleaf,Poor,56
+Natural forest,Medium evergreen broad-leaved natural forest,Evergreen broadleaf,Medium,36
+Natural forest,"Natural wood forest, broadleaf evergreen broadleaf mountain, restored",Evergreen broadleaf,Recovered,15
+Natural forest,Very poor evergreen broad-leaved natural forest on the soil mountain,Evergreen broadleaf,Very poor,14
+Natural forest,Poor evergreen broadleaf natural wood forest,Evergreen broadleaf,Poor,11
+Natural forest,Recovered evergreen broad-leaved natural forest,Evergreen broadleaf,Recovered,11
+Natural forest,Rich evergreen broad-leaved natural forest,Evergreen broadleaf,Rich,9
+Natural forest,Primeval rich natural evergreen broad-leaved forest on the soil mountain,Evergreen broadleaf,Rich,5
+Natural forest,Very poor evergreen broad-leaved natural forest,Evergreen broadleaf,Very poor,1
+Natural forest,Mixed rich natural forest on the soil mountain,Mixed,Rich,2915
+Natural forest,Empty land with regenerated wood trees,Regenerating land,Not applicable,1
+Natural forest,Unknown,Unknown,Not applicable,25
+Natural forest,Mixed natural bamboo forest,Wood-bamboo mixed,Not applicable,180
+Plantation forest,Area of mountains and land,Bare/rocky land,Not applicable,3456
+Plantation forest,Area of rocky mountains,Bare/rocky land,Not applicable,58
+Plantation forest,Area planted on the mountain,Newly planted land,Not applicable,517
+Plantation forest,Soil planted on the mountain of earth,Newly planted land,Not applicable,397
+Plantation forest,Wood forests planted with mountains and soil,Plantation forest,Not applicable,877
+Plantation forest,Bamboo plantation forest on the soil mountain,Plantation forest,Not applicable,147
+Plantation forest,Other plantation forest,Plantation forest,Not applicable,100
+Plantation forest,The planted timber forest has no reserve,Plantation forest,Not applicable,31
+Plantation forest,Planted timber forests with reserves,Plantation forest,Not applicable,21
+Plantation forest,"Area with regenerating wood trees, mountains and soil",Regenerating land,Not applicable,2132
+Plantation forest,Area with regenerating trees and rocks,Regenerating land,Not applicable,1
