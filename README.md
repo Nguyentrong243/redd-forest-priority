@@ -65,7 +65,7 @@ redd-forest-priority/
     │   ├── boundary/                     # Ranh giới hành chính cắt gọn từ GADM 4.1 (Nghệ An & Lâm Đồng)
     │   ├── exports/                      # 10 bản đồ chuyên đề 300 DPI (5 bản đồ Nghệ An + 5 bản đồ Lâm Đồng)
     │   ├── mxd/                          # 2 dự án ArcMap 10.4.1 (Nghe_An.mxd & Lam_Dong.mxd)
-    │   └── HUONG_DAN_ARCMAP.md           # Hướng dẫn mở dự án, hệ chiếu UTM 48N/49N và ký hiệu bản đồ
+    │   └── document                      # file word và powerpoint
     ├── figures/                          # Biểu đồ thống kê EDA, ML, GIS và sơ đồ ERD PostgreSQL
     ├── gis/                              # 3 bộ ESRI Shapefile WGS84 + bảng đối chiếu tên cột DBF ≤ 10 ký tự
     ├── models/
